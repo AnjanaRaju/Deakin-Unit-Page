@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100"><rect width="200" height="100" fill="green"/><text x="10" y="60" font-size="30" fill="white" font-family="Arial">DEAKIN</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <circle cx="200" cy="200" r="190" fill="white" stroke="black" stroke-width="6"/>
+  <path d="M160 100 h80 v55 q0 25 -40 45 q-40 -20 -40 -45 Z" fill="black"/>
+  <line x1="168" y1="155" x2="195" y2="105" stroke="white" stroke-width="7" stroke-linecap="round"/>
+  <line x1="183" y1="162" x2="210" y2="105" stroke="white" stroke-width="7" stroke-linecap="round"/>
+  <line x1="198" y1="165" x2="225" y2="108" stroke="white" stroke-width="7" stroke-linecap="round"/>
+  <text x="200" y="240" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="52" text-anchor="middle" fill="black" letter-spacing="2">DEAKIN</text>
+  <text x="200" y="282" font-family="Arial, sans-serif" font-weight="400" font-size="26" text-anchor="middle" fill="black" letter-spacing="6">UNIVERSITY</text>
+</svg>
